@@ -1,25 +1,18 @@
-import logo from './logo.svg';
+import Button from './Button';
 import './App.css';
 
-function App() {
+function Adoption() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Pet Adoption Resources<span>for the</span>Greater NYC Area</h1>
+      <div id="link-wrapper">
+        <Button url="https://www.nycacc.org/" name="Animal Care Centers of NYC" />
+        <Button url="https://www.aspca.org/nyc/aspca-adoption-center-nyc" name="ASPCA" />
+        <Button url="https://animalhaven.org/" name="Animal Haven Shelter" />
+        <Button url="https://www.socialteesnyc.org/" name="Social Tees Animal Rescue" />
+      </div>
     </div>
   );
 }
 
-export default App;
+export default Adoption;
