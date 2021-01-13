@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jumper_test/static/css/main.7a02b6a4.chunk.css",
+    "main.js": "/jumper_test/static/js/main.99ba876a.chunk.js",
+    "main.js.map": "/jumper_test/static/js/main.99ba876a.chunk.js.map",
+    "runtime-main.js": "/jumper_test/static/js/runtime-main.a046e07f.js",
+    "runtime-main.js.map": "/jumper_test/static/js/runtime-main.a046e07f.js.map",
+    "static/js/2.e704d82a.chunk.js": "/jumper_test/static/js/2.e704d82a.chunk.js",
+    "static/js/2.e704d82a.chunk.js.map": "/jumper_test/static/js/2.e704d82a.chunk.js.map",
+    "static/js/3.82c69757.chunk.js": "/jumper_test/static/js/3.82c69757.chunk.js",
+    "static/js/3.82c69757.chunk.js.map": "/jumper_test/static/js/3.82c69757.chunk.js.map",
+    "index.html": "/jumper_test/index.html",
+    "static/css/main.7a02b6a4.chunk.css.map": "/jumper_test/static/css/main.7a02b6a4.chunk.css.map",
+    "static/js/2.e704d82a.chunk.js.LICENSE.txt": "/jumper_test/static/js/2.e704d82a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a046e07f.js",
+    "static/js/2.e704d82a.chunk.js",
+    "static/css/main.7a02b6a4.chunk.css",
+    "static/js/main.99ba876a.chunk.js"
+  ]
+}
